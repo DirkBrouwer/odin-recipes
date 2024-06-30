@@ -1,8 +1,8 @@
 # odin-recipes
 
-A simple recipe website made with HTML.
+A simple recipe website made with HTML and CSS.
 
 This project is part of The Odin Project curriculum.
 
-The goal of this project is to get familiar with the foundations of HTML.
+The goal of this project is to get familiar with the foundations of HTML and CSS.
 An additional goal is practicing the basic Git workflow.
