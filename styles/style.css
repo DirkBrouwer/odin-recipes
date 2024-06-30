@@ -1,0 +1,31 @@
+body {
+  background-color: lightgray;
+  font: 1rem/1.4 Verdana, sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #0e03b3;
+}
+
+.heading {
+  color: #a61a1a;
+  text-align: center;
+}
+
+.text {
+  color: #0e03b3;
+}
+
+.recipes-list {
+  font-size: 1.3rem;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+
+.recipes-list li,
+.ingredients-list li,
+.steps-list li {
+  margin: 20px auto;
+}
