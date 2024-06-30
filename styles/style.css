@@ -29,3 +29,8 @@ a:hover {
 .steps-list li {
   margin: 20px auto;
 }
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
