@@ -17,6 +17,10 @@ a:hover {
   color: #0e03b3;
 }
 
+.description-text {
+  padding: 0 40px;
+}
+
 .recipes-list {
   font-size: 1.3rem;
   text-align: center;
