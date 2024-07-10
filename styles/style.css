@@ -38,3 +38,8 @@ a:hover {
   display: block;
   margin: 0 auto;
 }
+
+.recipe-image {
+  border: 1px solid #a61a1a;
+  border-radius: 20px;
+}
