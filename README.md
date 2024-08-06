@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipe website
 
 A simple recipe website made with HTML and CSS.
 
